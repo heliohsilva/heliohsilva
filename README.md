@@ -2,12 +2,12 @@
 
 ## 😎 Sobre mim
 
-📚 Meu nome é Hélio. Sou estudante de graduação em ciência da computação. Sou apaixonado por tecnologia desde bem pequeno, o que me fez cursar integralmente ao Ensino Médio um curso técnico em informática, o que despertou meu amor por programação.
+📚 Meu nome é Hélio. Sou estudante de graduação em Ciência da Computação. Sou apaixonado por tecnologia desde bem pequeno. Isso me levou cursar integralmente no Ensino Médio um curso Técnico em Informática, o qual despertou meu amor por programação.
 
 🎮 Fora do mundo da tecnologia, meus principais hobbies são tocar instrumentos, principalmente guitarra, ouvir música, assistir séries e filmes, ler livros e jogar jogos competitivos(mesmo sendo ruim em todos).
 
 ## 🤹Skills
-Utilizo diversas tecnologias para desenvolvimento de software, como 💻 : 
+Utilizo diversas tecnologias para desenvolvimento de software, como 💻: 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -19,7 +19,7 @@ Utilizo diversas tecnologias para desenvolvimento de software, como 💻 :
 
 ## 🎯Objetivos
 
-🚀 Minha meta profissional é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, e focar principalmente no desenvolvimento front-end, que é minha área favorita na programação.
+🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, focando principalmente no desenvolvimento front-end, minha área favorita.
 
 
 
