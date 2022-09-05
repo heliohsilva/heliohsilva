@@ -22,7 +22,7 @@ Utilizo diversas tecnologias para desenvolvimento de software, como 💻:
 🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, focando principalmente no desenvolvimento front-end, minha área favorita.
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=heliohsilva&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohsilva&layout=compact)](https://github.com/heliohsilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohsilva)](https://github.com/heliohsilva/github-readme-stats)
 
 
 ![github](https://img.shields.io/github/followers/heliohsilva)
