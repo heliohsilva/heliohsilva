@@ -9,13 +9,16 @@
 ## 🤹Skills
 💻 Utilizo diversas tecnologias para desenvolvimento de software, como: 
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css,html,cpp,c,linux,vscode" /><br>
+</p>
+<br>
+<h3>Aprendendo:</h3>
+  
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=googlecloud,azure,react,nodejs" /><br>
+</p>
+<br>
 
 ## 🎯Objetivos
 
@@ -25,8 +28,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohsilva)](https://github.com/heliohsilva/github-readme-stats)
 
 
-![github](https://img.shields.io/github/followers/heliohsilva)
-
-![snake gif](https://github.com/heliohsilva/heliohsilva/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/heliohsilva/heliohsilva/blob/output/github-contribution-grid-snake.svg)
 
 
