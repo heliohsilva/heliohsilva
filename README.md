@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css,html,cpp,c,linux,vscode" /><br>
 </p>
 <br>
-<h3>Aprendendo:</h3>
+<p>Aprendendo:</p>
   
 <p align="center">
     <img src="https://skillicons.dev/icons?i=googlecloud,azure,react,nodejs" /><br>
