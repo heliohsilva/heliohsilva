@@ -27,6 +27,6 @@
 
 ![github](https://img.shields.io/github/followers/heliohsilva)
 
-![snake gif](https://github.com/YOUR_USERNAME/heliohsilva/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/heliohsilva/heliohsilva/blob/output/github-contribution-grid-snake.gif)
 
 
