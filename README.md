@@ -7,7 +7,7 @@
 🎮 Fora do mundo da tecnologia, meus principais hobbies são tocar instrumentos, principalmente guitarra, ouvir música, assistir séries e filmes, ler livros e jogar jogos competitivos(mesmo sendo ruim em todos).
 
 ## 🤹Skills
-Utilizo diversas tecnologias para desenvolvimento de software, como 💻: 
+💻 Utilizo diversas tecnologias para desenvolvimento de software, como: 
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
