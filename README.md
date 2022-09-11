@@ -22,14 +22,16 @@
 <p align="center">
     <img src="https://skillicons.dev/icons?i=googlecloud,azure,react,nodejs" /><br>
 </p>
-<br>
+<br><br>
 
 ## 🎯Objetivos
 
-🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, focando principalmente no desenvolvimento back-end e em segurança de informação.
+<p align="left">🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, focando principalmente no desenvolvimento back-end e em segurança de informação.</p>
+
+## 📈Stats
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=heliohsilva&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohsilva)](https://github.com/heliohsilva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohsilva&show_icons=true&theme=tokyonight)](https://github.com/heliohsilva/github-readme-stats)
 
 
 ![snake gif](https://github.com/heliohsilva/heliohsilva/blob/output/github-contribution-grid-snake.svg)
