@@ -19,7 +19,7 @@
 
 ## 🎯Objetivos
 
-🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, focando principalmente no desenvolvimento front-end, minha área favorita.
+🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, focando principalmente no desenvolvimento back-end e em segurança de informação.
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=heliohsilva&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heliohsilva)](https://github.com/heliohsilva/github-readme-stats)
