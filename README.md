@@ -8,10 +8,11 @@
 
 <div align="center"> 
   <a href = "mailto:helio.medeiros_silva@outlook.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/h%C3%A9lio-henrique-medeiros-silva-b189a91b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
+  <a href="https://www.linkedin.com/in/h%C3%A9lio-henrique-medeiros-silva-b189a91b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+  
 ## 🤹Skills
 💻 Utilizo diversas tecnologias para desenvolvimento de software, como: 
+</p>
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,python,javascript,css,html,cpp,c,linux,vscode" /><br>
