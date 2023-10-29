@@ -13,7 +13,7 @@
 ## 🤹Skills
 💻 Utilizo diversas tecnologias para desenvolvimento de software, como: 
 </p>
-
+<br>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,github,python,php,javascript,css,html,cpp,c,java,linux,vscode" /><br>
 </p>
