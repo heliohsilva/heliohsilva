@@ -18,7 +18,6 @@
     <img src="https://skillicons.dev/icons?i=git,github,python,php,javascript,css,html,cpp,c,java,linux,vscode" /><br>
 </p>
 <br>
-<br>
 
 ## 🎯Objetivos
 
