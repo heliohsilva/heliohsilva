@@ -21,7 +21,7 @@
 
 ## 🎯Objetivos
 
-<p align="left">🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, focando principalmente no desenvolvimento back-end e em segurança de informação.</p>
+<p align="left">🚀 Minha meta pessoal é continuar me aperfeiçoando nas tecnologias que já domino e em novas que surgirem, tendo como foco principal computação em nuvem e machine learning.</p>
 
 ## 📈Stats
 
