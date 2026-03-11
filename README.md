@@ -1,11 +1,11 @@
-# Hello world, i'm Hélio 👋
+# Hello world, i'm Hélio
 
 Software Engineer focused on building **fast, efficient, and well-structured systems**.  
 I enjoy solving hard problems with simple code.
 
 ---
 
-## 👨‍💻 About me
+## About me
 
 I mainly work with **backend development for web applications**, with hands-on experience in **Python**, **Go**, and **JavaScript**.  
 
@@ -17,7 +17,7 @@ I enjoy building backends that are fast, predictable, and easy to maintain.
 
 ---
 
-## 🧰 Main stack
+## Main stack
 
 **Frontend**
 - HTML, CSS, JavaScript
@@ -44,13 +44,13 @@ I enjoy building backends that are fast, predictable, and easy to maintain.
 
 ---
 
-## 🌍 Languages
-- 🇧🇷 Portuguese — native  
-- 🇺🇸 English — advanced
+## Languages
+- Portuguese — native  
+- English — advanced
 
 ---
 
-## 📫 Contact
+## Contact
 
 - 💼 LinkedIn: [linkedin.com/in/heliohsilva1](https://www.linkedin.com/in/heliohsilva1/)
 - ✉️ Email: helio.medeiros_silva@outlook.com
