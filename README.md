@@ -21,11 +21,11 @@ I enjoy building backends that are fast, predictable, and easy to maintain.
 
 **Frontend**
 - HTML, CSS, JavaScript
-- jQuery, React
+- React
 
 **Backend**
-- Go
-- Python
+- Go, Python
+- GinGonic
 
 **Data & Automation**
 - Python for data processing, routines, and task automation
@@ -35,7 +35,7 @@ I enjoy building backends that are fast, predictable, and easy to maintain.
 - PostgreSQL
 - MySQL
 - MongoDB  
-- Currently studying Redis (caching)
+- Redis
 
 **Tools**
 - Docker
