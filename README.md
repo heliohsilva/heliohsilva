@@ -53,6 +53,7 @@ I enjoy building backends that are fast, predictable, and easy to maintain.
 ## Contact
 
 - 💼 LinkedIn: [linkedin.com/in/heliohsilva1](https://www.linkedin.com/in/heliohsilva1/)
+- 💼 Portfolio: [heliohislva.dev](https://heliohsilva.dev)
 - ✉️ Email: contato@heliohsilva.com
 
 ---
