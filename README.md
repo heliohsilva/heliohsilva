@@ -24,8 +24,7 @@ I enjoy building backends that are fast, predictable, and easy to maintain.
 - React
 
 **Backend**
-- Go, Python
-- GinGonic
+- Go (Gingonic), Python
 
 **Data & Automation**
 - Python for data processing, routines, and task automation
