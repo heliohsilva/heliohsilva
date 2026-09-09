@@ -1,53 +1,42 @@
 # Hello world, i'm Hélio
 
-Software Engineer focused on building **fast, efficient, and well-structured systems**.  
-I enjoy solving hard problems with simple code.
 
----
+I'm a software developer focused on backend engineering, with hands-on experience building web applications, data-processing systems, and automation workflows using Python, Go, and JavaScript.
 
-## About me
+I'm particularly interested in the fundamentals that make software reliable and efficient: performance, concurrency, scalability, resource usage, and system architecture. I enjoy understanding how systems behave under the hood and using that knowledge to build software that is fast, predictable, and easy to maintain.
 
-I mainly work with **backend development for web applications**, with hands-on experience in **Python**, **Go**, and **JavaScript**.  
+My work spans backend development, data processing, databases, and infrastructure, with experience using technologies such as PostgreSQL, MongoDB, Redis, Docker, and Linux. I'm currently deepening my knowledge of distributed systems, scalability, and cluster orchestration.
 
-I care deeply about system fundamentals such as performance, concurrency, scalability, and resource efficiency, and I build software with these pillars in mind.
+I care about more than making software work. I care about understanding the problem, choosing the right trade-offs, and building solutions that remain efficient and maintainable as they grow.
 
-I’m currently exploring **distributed systems** and **cluster orchestration**, diving into scalability, performance, and system architecture concepts.  
+## Main Stack
 
-I enjoy building backends that are fast, predictable, and easy to maintain.
+### Backend
+- Python
+- Go
+- JavaScript
+- Java
 
----
-
-## Main stack
-
-**Frontend**
+### Frontend
 - HTML, CSS, JavaScript
 - React
 
-**Backend**
-- Go (Gingonic), Python
-
-**Data & Automation**
-- Python for data processing, routines, and task automation
-- N8N for automation with LLM's
-
-**Databases**
+### Databases
 - PostgreSQL
 - MySQL
-- MongoDB  
+- MongoDB
 - Redis
 
-**Tools**
+### Tools & Infrastructure
 - Docker
 - Linux
 - Git
-
----
+- GitHub Actions
 
 ## Languages
-- Portuguese — native  
+- Portuguese — native
 - English — advanced
 
----
 
 ## Contact
 
